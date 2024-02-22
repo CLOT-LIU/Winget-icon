@@ -45881,9 +45881,9 @@
             "images": []
         },
         "wemod": {
-            "icon": "https://i.imgur.com/7Mstj5O.png",
+            "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CLOT-LIU/Winget-icon/master/icon/WeMod.png",
             "images": [
-                "https://i.imgur.com/qo57Usj.png"
+                "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CLOT-LIU/Winget-icon/master/images/WeMod.png"
             ]
         },
         "wemod-beta": {
